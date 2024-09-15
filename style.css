@@ -1,0 +1,30 @@
+body   {
+    background-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+    color: peachpuff;
+    border-color: peachpuff;
+    border-style: solid;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 8px 4px 8px 4px black;
+    border-style: dotted;
+    border-color: peachpuff;
+    padding: 1%;
+    max-width: 50%;
+}
+
+header {
+    background-color: peachpuff;
+    padding: 1%;
+    padding-left: 3%;
+}
+
+ body > header { 
+background-color: azure;
+color: rgb(red, green, blue);
+ }
